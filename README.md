@@ -10,11 +10,11 @@ Tik tok Video download telegram bot
     <a href="https://t.me/Demon_TikTok_bot" target="blank"><img src="https://img.shields.io/badge/@Demon_TikTok_bot-30302f?style=flat&logo=telegram" /></a>
 
 
-<p align="center"><a href="https://t.me/Demon_TikTok_bot"><img src="https://github.com/dDarkSkull93/Demon-Tiktok-Downloader/blob/main/unnamed.png"></a></p>
+<p align="center"><a href="https://t.me/Demon_TikTok_bot"><img src="https://telegra.ph/file/c71ce75f130dd1b1dba99.jpg"></a></p>
 <p align="center">
 
 ## Heroku Deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dDarkSkull93/Demon-Tiktok-Downloader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkSkull93/Demon-Tiktok-Downloader)
 
 
 
