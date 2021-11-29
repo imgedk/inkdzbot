@@ -10,7 +10,7 @@ Tik tok Video download telegram bot
     <a href="https://t.me/Demon_TikTok_bot" target="blank"><img src="https://img.shields.io/badge/@Demon_TikTok_bot-30302f?style=flat&logo=telegram" /></a>
 
 
-<p align="center"><a href="https://t.me/Demon_TikTok_bot"><img src="https://telegra.ph/file/c71ce75f130dd1b1dba99.jpg"></a></p>
+<p align="center"><a href="https://t.me/Demon_TikTok_bot"><img src="https://telegra.ph/file/c6f51280affffa56b75cd.jpg"></a></p>
 <p align="center">
 
 ## Heroku Deployment
