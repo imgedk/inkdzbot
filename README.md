@@ -6,7 +6,7 @@ Tik tok Video download telegram bot
 
 ## Let's connect!
 <p>
-    <a href="https://t.me/DemonGirlSupport" target="blank"><img src="https://img.shields.io/badge/@DemonGirlSupport-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/Teletech_supportgroup" target="blank"><img src="https://img.shields.io/badge/@DemonGirlSupport-30302f?style=flat&logo=telegram" /></a>
     <a href="https://t.me/Demon_TikTok_bot" target="blank"><img src="https://img.shields.io/badge/@Demon_TikTok_bot-30302f?style=flat&logo=telegram" /></a>
 
 
@@ -20,4 +20,4 @@ Tik tok Video download telegram bot
 
 
 ### Support & Updates 🎑
-<a href="https://t.me/DemonGirlSupport"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/DemonGirlUpdate"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Teletech_supportgroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/DemonGirlUpdate"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
