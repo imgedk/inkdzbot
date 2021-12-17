@@ -14,7 +14,7 @@ Tik tok Video download telegram bot
 <p align="center">
 
 ## Heroku Deployment
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DarkSkull93/Demon-Tiktok-Downloader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TTXSA/Demon-Tiktok-Downloader)
 
 
 
