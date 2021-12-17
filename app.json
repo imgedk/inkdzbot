@@ -10,7 +10,7 @@
   ],
   "success_url": "https://github.com/DarkSkull93/Demon-Tiktok-Downloader",
   "website": "https://github.com/DarkSkull93",
-  "repository": "https://github.com/DarkSkull93/Demon-Tiktok-Downloader",
+  "repository": "https://github.com/TTXSA/Demon-Tiktok-Downloader",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
