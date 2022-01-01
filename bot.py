@@ -20,10 +20,10 @@ START_BUTTONS=[
 
 DL_BUTTONS=[
     [
-        InlineKeyboardButton('Logo olmadan', callback_data='nowm'),
-        InlineKeyboardButton('Logo ilə', callback_data='wm'),
+        InlineKeyboardButton('بدون حقوق', callback_data='nowm'),
+        InlineKeyboardButton('مع حقوق', callback_data='wm'),
     ],
-    [InlineKeyboardButton('Musiqi', callback_data='audio')],
+    [InlineKeyboardButton('تحميل الصوت', callback_data='audio')],
 ]
 
 
