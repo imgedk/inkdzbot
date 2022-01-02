@@ -12,10 +12,8 @@ downloads = './downloads/{}/'
 # Button
 START_BUTTONS=[
     [
-        InlineKeyboardButton('Support', url='https://t.me/FARZSupport'),
-        InlineKeyboardButton('Kanal', url='https://t.me/FARZBotsAz'),
-    ],
-    [InlineKeyboardButton('Sahib', url='https://t.me/nihatfarz')],
+        InlineKeyboardButton('الدعم الفني', url='https://telegram.me/imgedk'),
+ 
 ]
 
 DL_BUTTONS=[
@@ -49,7 +47,7 @@ async def run_cmd(cmd: str) -> Tuple[str, str, int, int]:
 # Start
 @xbot.on_message(filters.command('start') & filters.private)
 async def _start(bot, update):
-  await update.reply_text(f"Mən TikTok yükləmə botuyam!\nBu botdan istifadə edərək TikTok dan video/musiqi yükləyə bilərsiniz", True, reply_markup=InlineKeyboardMarkup(START_BUTTONS))
+  await update.reply_text(انسخ رابط المقطع وارسله بالمحادثة.", True, reply_markup=InlineKeyboardMarkup(START_BUTTONS))
 
 # Downloader for tiktok
 @xbot.on_message(filters.regex(pattern='.*http.*') & filters.private)
